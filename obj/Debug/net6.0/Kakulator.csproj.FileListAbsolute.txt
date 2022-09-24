@@ -1,0 +1,15 @@
+E:\VSCODE\Kakulator\bin\Debug\net6.0\Kakulator.exe
+E:\VSCODE\Kakulator\bin\Debug\net6.0\Kakulator.deps.json
+E:\VSCODE\Kakulator\bin\Debug\net6.0\Kakulator.runtimeconfig.json
+E:\VSCODE\Kakulator\bin\Debug\net6.0\Kakulator.dll
+E:\VSCODE\Kakulator\bin\Debug\net6.0\Kakulator.pdb
+E:\VSCODE\Kakulator\obj\Debug\net6.0\Kakulator.csproj.AssemblyReference.cache
+E:\VSCODE\Kakulator\obj\Debug\net6.0\Kakulator.GeneratedMSBuildEditorConfig.editorconfig
+E:\VSCODE\Kakulator\obj\Debug\net6.0\Kakulator.AssemblyInfoInputs.cache
+E:\VSCODE\Kakulator\obj\Debug\net6.0\Kakulator.AssemblyInfo.cs
+E:\VSCODE\Kakulator\obj\Debug\net6.0\Kakulator.csproj.CoreCompileInputs.cache
+E:\VSCODE\Kakulator\obj\Debug\net6.0\Kakulator.dll
+E:\VSCODE\Kakulator\obj\Debug\net6.0\refint\Kakulator.dll
+E:\VSCODE\Kakulator\obj\Debug\net6.0\Kakulator.pdb
+E:\VSCODE\Kakulator\obj\Debug\net6.0\Kakulator.genruntimeconfig.cache
+E:\VSCODE\Kakulator\obj\Debug\net6.0\ref\Kakulator.dll
